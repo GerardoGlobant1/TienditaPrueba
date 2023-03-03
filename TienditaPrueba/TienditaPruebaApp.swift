@@ -11,7 +11,7 @@ import SwiftUI
 struct TienditaPruebaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeTiendita()
         }
     }
 }
